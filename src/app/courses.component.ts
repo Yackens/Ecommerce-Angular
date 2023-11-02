@@ -19,5 +19,4 @@ export class CoursesComponent {
     display_title() {
         return "Courses: " + this.title;
     }
-
 }
